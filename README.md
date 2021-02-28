@@ -1,0 +1,1 @@
+# integration_for_stciker_and_text
